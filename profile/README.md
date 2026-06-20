@@ -6,13 +6,13 @@
 <!--
 <p align="center">
   <a href="https://ounlp.org">
-    <img src="profile/assets/banner.png" alt="OUNLP — OU Natural Language Processing Lab" width="100%">
+    <img src="assets/banner.png" alt="OUNLP — OU Natural Language Processing Lab" width="100%">
   </a>
 </p>
 -->
 
 <h1 align="center">
-  <img src="profile/assets/logo.png" alt="OUNLP logo" height="36" valign="middle">
+  <img src="assets/logo.png" alt="OUNLP logo" height="36" valign="middle">
   OUNLP — OU Natural Language Processing Lab
 </h1>
 
