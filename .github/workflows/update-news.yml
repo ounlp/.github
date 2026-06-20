@@ -1,0 +1,26 @@
+name: Update profile news
+
+# Refreshes the "Latest from the lab" list in profile/README.md from the lab
+# site's feed. Runs daily and on demand. Safe no-op if the feed is unreachable.
+on:
+  schedule:
+    - cron: "0 12 * * *"   # daily, 12:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write          # the action commits the updated README
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull latest posts from ounlp.org
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://ounlp.org/feed.xml"
+          readme_path: "./profile/README.md"
+          max_post_count: 5
+          # writes between the <!-- BLOG-POST-LIST:START/END --> markers
+          template: "- [$title]($url) <!-- $date -->$newline"
+          commit_message: "chore: refresh latest lab news"
