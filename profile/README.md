@@ -11,7 +11,10 @@
 </p>
 -->
 
-<h1 align="center">🌪️ OUNLP — OU Natural Language Processing Lab</h1>
+<h1 align="center">
+  <img src="profile/assets/logo.png" alt="OUNLP logo" height="36" valign="middle">
+  OUNLP — OU Natural Language Processing Lab
+</h1>
 
 <p align="center">
   <em>Through Wind and Rain.</em> Building robust, interpretable AI systems that support
