@@ -65,8 +65,7 @@ agents to structured prediction and trustworthy deployment in education, healthc
 
 ### 📰 Latest from the lab
 <!-- Auto-updated from ounlp.org/feed.xml by .github/workflows/update-news.yml -->
-<!-- BLOG-POST-LIST:START -->
-- See [ounlp.org/news](https://ounlp.org/news/)
+<!-- BLOG-POST-LIST:START -->- [AgentBeats SDK, AgentX–AgentBeats Competition, and OUNLP Project](https://ounlp.org/2025/11/12/agent-beats.html) <!-- Wed Nov 12 2025 12:00 AM -->
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎓 Join us
