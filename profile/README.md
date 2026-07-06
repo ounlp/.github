@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center">
-  <em>Chasing the Storm.</em> Building robust, interpretable AI systems that support
+  <em>Tame the Tornado.</em> Building robust, interpretable AI systems that support
   <b>human learning, communication, and collaboration.</b>
 </p>
 
@@ -77,4 +77,4 @@ We welcome students and collaborators excited about NLP/ML for dialogue, agents,
 trustworthy AI. See [**ounlp.org**](https://ounlp.org) or email
 [jie.cao@ou.edu](mailto:jie.cao@ou.edu).
 
-<p align="center"><sub>🌪️ Inspired by Oklahoma's powerful skies, the tornado mark represents resilience and momentum. It reflects the OUNLP Lab's spirit: staying focused through uncertainty, moving through challenges, and advancing discovery.</sub></p>
+<p align="center"><sub>🌪️ Inspired by Oklahoma's powerful skies, the tornado mark represents resilience and momentum. It reflects the OUNLP Lab's spirit: taming chaos into robust, reliable systems, staying focused through uncertainty, and advancing discovery.</sub></p>
