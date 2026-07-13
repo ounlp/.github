@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center">
-  <em>Tame the Tornado.</em> Building robust, interpretable AI systems that support
+  <em>Signal in the Storm.</em> Building robust, trustworthy AI systems that support
   <b>human learning, communication, and collaboration.</b>
 </p>
 
