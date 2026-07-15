@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center">
-  <em>Signal in the Storm.</em> Building robust, trustworthy AI systems that support
+  <em>Robust Language Intelligence.</em> Building robust, trustworthy AI systems that support
   <b>human learning, communication, and collaboration.</b>
 </p>
 
