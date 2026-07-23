@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center">
-  <em>Robust Language Intelligence.</em> Trustworthy AI for
+  <em>Language and Beyond.</em> Trustworthy AI for
   <b>human learning, communication, and collaboration</b> — extended into AI engines that
   advance <b>science, education, and healthcare</b>.
 </p>
