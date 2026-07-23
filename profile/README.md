@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>Language and Beyond.</em> We advance natural language processing and machine learning
-  toward trustworthy AI that supports <b>human learning, communication, and collaboration</b> —
+  toward trustworthy AI that supports <b>human communication and collaboration</b> —
   and develop intelligent systems that accelerate progress in <b>science, education, and healthcare</b>.
 </p>
 
