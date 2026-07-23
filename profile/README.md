@@ -17,8 +17,9 @@
 </h1>
 
 <p align="center">
-  <em>Robust Language Intelligence.</em> Building trustworthy AI systems that support
-  <b>human learning, communication, and collaboration.</b>
+  <em>Robust Language Intelligence.</em> Trustworthy AI for
+  <b>human learning, communication, and collaboration</b> — extended into AI engines that
+  advance <b>science, education, and healthcare</b>.
 </p>
 
 <p align="center">
