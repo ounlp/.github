@@ -57,6 +57,7 @@ agents to structured prediction and trustworthy deployment in education, healthc
 ### ⭐ Highlighted work
 
 - **A Multimodal Large Language Model for Materials Science** — *Nature Machine Intelligence* (2026) · [doi](https://doi.org/10.1038/s42256-026-01214-y)
+- **A Hyperparameter Tuning Strategy for an LSTM Model to Simulate Reservoir Outflows: Large-Scale Evaluation across 441 Dams in the CONUS** — *Journal of Hydrology* (2026) · [doi](https://doi.org/10.1016/j.jhydrol.2026.136204)
 - **HydroAgent: Closing the Gap Between Frontier LLMs and Human Experts in Hydrologic Model Calibration via Simulator-Grounded RL** — *arXiv* (2026) · [arXiv:2605.17792](https://arxiv.org/abs/2605.17792)
 
 ### 🛠️ Open source
