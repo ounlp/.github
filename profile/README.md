@@ -33,6 +33,7 @@
   <a href="https://ounlp.org/research/">📚 Publications</a> ·
   <a href="https://ounlp.org/team/">👥 Team</a> ·
   <a href="https://ounlp.org/news/">📰 News</a> ·
+  <a href="https://ounlp.org/awards/">🏆 Awards</a> ·
   <a href="mailto:jie.cao@ou.edu">✉️ Contact</a>
 </p>
 
