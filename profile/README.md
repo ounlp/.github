@@ -65,6 +65,7 @@ agents to structured prediction and trustworthy deployment in education, healthc
 
 | Project | What it is |
 |---|---|
+| [Clarification-for-DDP](https://github.com/ounlp/Clarification-for-DDP) | Data and code for *Beyond Supervised Clarification: Input Rewriting with LLMs for Dialogue Discourse Parsing* (SIGDIAL 2026) |
 | [Multi-Round-Text-Simplifier](https://github.com/ounlp/Multi-Round-Text-Simplifier) | Iterative, multi-round text simplification |
 | [dialogue-act](https://github.com/ounlp/dialogue-act) | Dialogue-act modeling |
 | [lab-website](https://github.com/ounlp/lab-website) | Source of [ounlp.org](https://ounlp.org) |
